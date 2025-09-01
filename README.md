@@ -1,6 +1,6 @@
 
 # Desafios e Atividades
-Repositório para armazenar alguns desafios e atividades propostas nos cursos de Ciência da Computação pela UESA ([Universidade Estácio de Sá](https://estacio.br)).
+Repositório para armazenar alguns desafios e atividades propostas nos cursos que fiz e/ou estou fazendo.
 
 ## 📚 Disciplinas Cursadas (até o momento)
 - Introdução à Programação de Computadores
